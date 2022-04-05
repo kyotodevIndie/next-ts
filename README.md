@@ -1,34 +1,69 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    <img alt="GoBarber API" src="https://res.cloudinary.com/lukemorales/image/upload/v1599783084/readme_logos/bancointer_s0x4zc.png" />
+    <br>
+    Banco Inter's Internet Banking Redesign
+</h1>
 
-## Getting Started
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/bancointer.svg">
 
-First, run the development server:
+  <a href="https://www.codacy.com/app/lukemorales/bancointer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/bancointer&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/4997e01df18f4441aae384fc60aa4daa.svg">
+  </a>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/bancointer.svg">
+  <a href="https://github.com/lukemorales/bancointer/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/bancointer.svg">
+  </a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <a href="https://github.com/lukemorales/bancointer/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/bancointer.svg">
+  </a>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/bancointer.svg">
+</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<h4 align="center">
+  This is a new version of Banco Inter's Internet Banking inspired by <a href="https://www.linkedin.com/in/vtifoski/">Vinícius Tifoski</a>'s redesign to match the 2020 mobile interface.
+</h4>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<p align="center">
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-## Learn More
+![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1599784304/readme_logos/bancointer-preview_resa83.png)
+<p align="center">
+  <a href="https://bancointer-redesign.netlify.app" target="_blank">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1599785319/readme_logos/demo_on_netlify_umjmch.png">
+  </a>
+</p>
 
-To learn more about Next.js, take a look at the following resources:
+## :rocket: Technologies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project was developed live at [twitch.tv/lukemoralestv](https://www.twitch.tv/lukemoralestv) with the following technologies:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [ReactJS](https://reactjs.org/)
+- [Typescript][ts]
+- [react-router-dom](https://github.com/ReactTraining/react-router)
+- [styled-components](https://www.styled-components.com/)
+- [framer-motion](https://www.framer.com/motion/)
+- [nivo](https://nivo.rocks)
+- [polished](https://polished.js.org)
+- [date-fns](https://date-fns.org/)
+- [Faker.js](https://github.com/marak/Faker.js/)
+- [VS Code][vscode] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
-## Deploy on Vercel
+## :memo: License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/bancointer/blob/master/LICENSE) for more information.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
+
+[ts]: https://www.typescriptlang.org
+[vscode]: https://code.visualstudio.com/
+[yarn]: https://yarnpkg.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
