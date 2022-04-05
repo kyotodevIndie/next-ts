@@ -7,10 +7,6 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/bancointer.svg">
 
-  <a href="https://www.codacy.com/app/lukemorales/bancointer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/bancointer&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/4997e01df18f4441aae384fc60aa4daa.svg">
-  </a>
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/bancointer.svg">
   <a href="https://github.com/lukemorales/bancointer/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/bancointer.svg">
@@ -32,12 +28,14 @@
   <a href="#memo-license">License</a>
 </p>
 
-![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1599784304/readme_logos/bancointer-preview_resa83.png)
 <p align="center">
   <a href="https://bancointer-redesign.netlify.app" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1599785319/readme_logos/demo_on_netlify_umjmch.png">
   </a>
 </p>
+
+![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1599784304/readme_logos/bancointer-preview_resa83.png)
+
 
 ## :rocket: Technologies
 
